@@ -43,7 +43,7 @@ In this program I analyzed a portfolio in order to simulate a retirement plan. T
 
 ![Line_Plot]()
 
-![Histogram]()
+![Histogram](https://github.com/beccabeastly/Monte_Carlo_Retirement_Analysis/blob/main/5-4-monte-carlo-histogram.png)
 
 
 # Contributors

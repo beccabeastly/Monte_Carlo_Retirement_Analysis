@@ -41,6 +41,9 @@ Educational purposes
 
 In this program I analyzed a portfolio in order to simulate a retirement plan. The portfolio consisted of Stocks, Bonds, and Cryptocurrency. In the two photos below the Monte Carlo simulation projected what possibilities a retirment fund would look like in 30 years and 10 years.
 
+![Line_Plot]()
+
+![Histogram]()
 
 
 # Contributors

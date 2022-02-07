@@ -4,12 +4,16 @@ In this project I analyzed a retirement portfolio through different weighted sim
 ---
 # Technologies
 Python
+---
 Pandas
+---
 Matplotlib
+---
 Jupyter Lab
+---
 MCForecast Tools
+---
 API requests
-
 ---
 
 # How to use the Project

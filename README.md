@@ -39,7 +39,7 @@ Educational purposes
 
 # Code Footnotes
 
-In this program I analyzed a portfolio in order to simulate a retirement plan. The portfolio consisted of Stocks, Bonds, and Cryptocurrency. In the two photos below the Monte Carlo simulation projected what possibilities a retirment fund would look like in 30 years and 10 years.
+In this program I analyzed a portfolio in order to simulate a retirement plan. The portfolio consisted of Stocks, Bonds, and Cryptocurrency. In the two photos below the Monte Carlo simulation projected what possibilities would look like in 30 years.
 
 ![Line_Plot](https://github.com/beccabeastly/Monte_Carlo_Retirement_Analysis/blob/main/5-4-monte-carlo-line-plot.png)
 
